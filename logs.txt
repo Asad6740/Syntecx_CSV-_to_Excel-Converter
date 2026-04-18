@@ -1,0 +1,4 @@
+2026-04-18 22:25:25,376 - INFO - CSV loaded successfully
+2026-04-18 22:25:25,392 - INFO - Data cleaned successfully
+2026-04-18 22:25:25,395 - INFO - Columns renamed
+2026-04-18 22:25:25,753 - INFO - File saved to result.xlsx
